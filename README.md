@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 * 🎓 BTech student in **Electronics & Communication Engineering**
-* 💻 Interested in **AI/ML, Web Development, IoT & Embedded Systems**
+* 💻 Interested in **Data Analytics, Devops, DSA, DBMS**
 * 🌱 Currently learning **DSA,DBMS, Linux & python**
 * 🤖 Exploring the intersection of **AI/ML + ECE**
 * 🛠️ I enjoy building projects that solve real-world problems
