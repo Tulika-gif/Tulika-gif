@@ -21,7 +21,7 @@
 * 📌 Data Structures & Algorithms
 * 📌 DBMS & SQL
 * 📌 Linux & Bash
-* 📌 Docker & Kubernetes
+  
 
 ## 🚀 Featured Projects
 
