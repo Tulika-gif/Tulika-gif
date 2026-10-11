@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tulika Agarwal
 
-### BTech ECE Student | DATA ANALYST AND FRONTENED DEVELOPER AND LEARNING DEVOPS
+### BTech ECE Student | DATA ANALYST AND FRONTENED DEVELOPER AND DEVOPS ENGINEER AND LEARNING TESTING
 
 ---
 
@@ -8,7 +8,7 @@
 
 * 🎓 BTech student in **Electronics & Communication Engineering**
 * 💻 Interested in **Data Analytics, Devops, DSA, DBMS**
-* 🌱 Currently learning **DSA,DBMS, Linux & python**
+* 🌱 Currently learning **TESTING**
 * 🤖 Exploring the intersection of **AI/ML + ECE**
 * 🛠️ I enjoy building projects that solve real-world problems
 * 🚀 Currently working on improving my development and problem-solving skills
@@ -18,9 +18,8 @@
 
 ## 🧠 What I'm Learning
 
-* 📌 Data Structures & Algorithms
-* 📌 DBMS & SQL
-* 📌 Linux & Bash
+* 📌 Manual testing
+* 📌 API testing
   
 
 ## 🚀 Featured Projects
