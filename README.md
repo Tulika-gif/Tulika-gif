@@ -30,6 +30,9 @@ An accessibility-focused banking website designed to help visually impaired user
 
 **Tech:** HTML • CSS • JavaScript • Gemini API
 
+Tech stack
+Numpy Pandas
+
 
 
 
