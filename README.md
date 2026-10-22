@@ -6,28 +6,28 @@
 
 ## 🚀 About Me
 
-* 🎓 BTech student in **Electronics & Communication Engineering** at Jaypee Institute of Information Technology[cite: 3]
-* 💻 Interested in **Data Analytics, DevOps, DSA, DBMS**[cite: 3]
-* 🧪 Currently learning **TESTING**[cite: 3]
-* 🤖 Exploring the intersection of **AI/ML + ECE**[cite: 3]
-* 🛠️ I enjoy building projects that solve real-world problems[cite: 3]
-* 🌱 Currently working on improving my development and problem-solving skills[cite: 3]
-* 💡 Interested in **AI-powered applications, intelligent systems and scalable software**[cite: 3]
+* 🎓 BTech student in **Electronics & Communication Engineering** at Jaypee Institute of Information Technology
+* 💻 Interested in **Data Analytics, DevOps, DSA, DBMS**
+* 🧪 Currently learning **TESTING**
+* 🤖 Exploring the intersection of **AI/ML + ECE**
+* 🛠️ I enjoy building projects that solve real-world problems
+* 🌱 Currently working on improving my development and problem-solving skills
+* 💡 Interested in **AI-powered applications, intelligent systems and scalable software**
 
 ---
 
 ## 🧠 What I'm Learning
 
-* 📌 Manual testing[cite: 3]
-* 📌 API testing[cite: 3]
+* 📌 Manual testing
+* 📌 API testing
 
 ---
 
 ## 🚀 Featured Projects
 
-### ♿ Accessible Banking Interface[cite: 3]
-An accessibility-focused banking website designed to help visually impaired users interact with banking services using voice-based features.[cite: 3]
-* **Tech Stack:** HTML • CSS • JavaScript • Gemini API[cite: 3]
+### ♿ Accessible Banking Interface
+An accessibility-focused banking website designed to help visually impaired users interact with banking services using voice-based features.
+* **Tech Stack:** HTML • CSS • JavaScript • Gemini API
 
 ---
 
