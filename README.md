@@ -1,95 +1,33 @@
 # 👋 Hi, I'm Tulika Agarwal
 
-### BTech ECE Student | DATA ANALYST AND FRONTENED DEVELOPER AND DEVOPS ENGINEER AND LEARNING TESTING
+**BTech ECE Student | DATA ANALYST AND FRONTEND DEVELOPER AND DEVOPS ENGINEER AND LEARNING TESTING**
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 BTech student in **Electronics & Communication Engineering**
-* 💻 Interested in **Data Analytics, Devops, DSA, DBMS**
-* 🌱 Currently learning **TESTING**
-* 🤖 Exploring the intersection of **AI/ML + ECE**
-* 🛠️ I enjoy building projects that solve real-world problems
-* 🚀 Currently working on improving my development and problem-solving skills
-* 💡 Interested in **AI-powered applications, intelligent systems and scalable software**
+* 🎓 BTech student in **Electronics & Communication Engineering** at Jaypee Institute of Information Technology[cite: 3]
+* 💻 Interested in **Data Analytics, DevOps, DSA, DBMS**[cite: 3]
+* 🧪 Currently learning **TESTING**[cite: 3]
+* 🤖 Exploring the intersection of **AI/ML + ECE**[cite: 3]
+* 🛠️ I enjoy building projects that solve real-world problems[cite: 3]
+* 🌱 Currently working on improving my development and problem-solving skills[cite: 3]
+* 💡 Interested in **AI-powered applications, intelligent systems and scalable software**[cite: 3]
 
 ---
 
 ## 🧠 What I'm Learning
 
-* 📌 Manual testing
-* 📌 API testing
-  
+* 📌 Manual testing[cite: 3]
+* 📌 API testing[cite: 3]
+
+---
 
 ## 🚀 Featured Projects
 
-### ♿ Accessible Banking Interface
-
-An accessibility-focused banking website designed to help visually impaired users interact with banking services using voice-based features.
-
-**Tech:** HTML • CSS • JavaScript • Gemini API
-
-
-mkdir -p .github/workflows && cat << 'EOF' > .github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
-        id: snake-to-svg
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-EOF
-
-cat << 'EOF' > README.md
-# Hi, I'm Tulika Agarwal 👋
-
-### BTech ECE Student | DATA ANALYST AND FRONTEND DEVELOPER AND DEVOPS ENGINEER AND LEARNING TESTING
-
----
-
-## 🚀 About Me
-- 🎓 BTech student in **Electronics & Communication Engineering**
-- 💻 Interested in **Data Analytics, DevOps, DSA, DBMS**
-- 🧪 Currently learning **TESTING**
-- 🤖 Exploring the intersection of **AI/ML + ECE**
-- 🛠️ I enjoy building projects that solve real-world problems
-- 🌱 Currently working on improving my development and problem-solving skills
-- 💡 Interested in **AI-powered applications, intelligent systems and scalable software**
-
----
-
-## 🧠 What I'm Learning
-- 📌 Manual testing
-- 📌 API testing
+### ♿ Accessible Banking Interface[cite: 3]
+An accessibility-focused banking website designed to help visually impaired users interact with banking services using voice-based features.[cite: 3]
+* **Tech Stack:** HTML • CSS • JavaScript • Gemini API[cite: 3]
 
 ---
 
@@ -159,8 +97,3 @@ cat << 'EOF' > README.md
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-EOF
-
-git add .github/workflows/snake.yml README.md
-git commit -m "Add GitHub Snake action workflow and update README profile with tech stack & stats"
-git push origin main
